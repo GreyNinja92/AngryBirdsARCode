@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AngryBirdsAR/static/css/main.073c9b0a.css",
+    "main.js": "/AngryBirdsAR/static/js/main.de2032e5.js",
+    "static/js/787.8fefc90d.chunk.js": "/AngryBirdsAR/static/js/787.8fefc90d.chunk.js",
+    "index.html": "/AngryBirdsAR/index.html",
+    "main.073c9b0a.css.map": "/AngryBirdsAR/static/css/main.073c9b0a.css.map",
+    "main.de2032e5.js.map": "/AngryBirdsAR/static/js/main.de2032e5.js.map",
+    "787.8fefc90d.chunk.js.map": "/AngryBirdsAR/static/js/787.8fefc90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.de2032e5.js"
+  ]
+}
